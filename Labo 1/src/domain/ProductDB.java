@@ -9,4 +9,8 @@ public class ProductDB {
     public ProductDB(ArrayList<Product> producten) {
         producten = new ArrayList<Product>();
     }
+
+    public double showPrice(String id, int nbOfDays) {
+        return
+    }
 }
